@@ -3,7 +3,7 @@
 <!--
 **javimartd/javimartd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-My name is Javier and I come from Jaén! I'm an Android engineer working at Virgin Media, a British company that provides fibre broadband, digital TV, landline phone and mobile services.
+My name is Javier and I come from Jaén! I'm an Android engineer based in Dubai working at [Level Shoes](https://www.levelshoes.com/), a globally recognized retail company specialized in the world of designer footwear and accessories.
 
 I consider myself passionate about my work and programming. Always learning, open and ready to new challenges and opportunities, interested in listening to colleagues, industry experts and interesting people, so don't hesitate to contact me if you want to connect!
 
