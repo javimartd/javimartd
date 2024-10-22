@@ -19,7 +19,7 @@ I consider myself passionate about my work and programming. Always learning, ope
 
 ### 📫 How to reach me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier_Martínez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/javier-mart%C3%ADnez-d%C3%ADaz/?locale=en_US)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier_Martínez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/javier-martinez-diaz/)
 
 
 <!-- Here are some ideas to get you started:
