@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there,
 
 My name is Javier and I come from Jaén! I'm an Android engineer based in Dubai working at [Level Shoes](https://www.levelshoes.com/), a globally recognized retail company specialized in the world of designer footwear and accessories.
 
